@@ -17,6 +17,7 @@ xcuserdata
 *.xccheckout
 *.moved-aside
 DerivedData
+
 *.hmap
 *.ipa
 *.xcuserstate
@@ -26,6 +27,7 @@ project.xcworkspace
 #
 build/
 cache/
+coverage/
 .idea
 .gradle
 local.properties
