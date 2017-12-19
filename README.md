@@ -14,3 +14,6 @@ A minimalistic react native boilerplate with **just** the essentials. No useless
 - Enzyme for testing stateful components and container components.
 - Automated Prepush hooks for making sure Lint and test cases pass before the code is pushed.
 - Integrated [React-Native-Debugger](https://github.com/jhen0409/react-native-debugger)
+
+
+#### Note: Use [react-native-rename](https://www.npmjs.com/package/react-native-rename) to rename your app. 
