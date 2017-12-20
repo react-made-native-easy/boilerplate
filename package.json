@@ -6,6 +6,8 @@
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest --verbose --coverage",
     "postinstall": "rndebugger-open",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android",
     "prepush": "npm run lint && npm run test",
     "lint": "eslint ./",
     "lint:fix": "eslint ./ --fix",
