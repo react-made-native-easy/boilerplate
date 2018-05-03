@@ -16,8 +16,8 @@
     "coverage": "jest --verbose --coverage && open ./coverage/lcov-report/index.html"
   },
   "dependencies": {
-    "react": "16.0.0",
-    "react-native": "0.51.0"
+    "react": "16.3.1",
+    "react-native": "0.55.3"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.3",
